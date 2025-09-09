@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23405
-Fork on GitHub7976
+
 <h1 align="center">Hi 👋, I'm Marcus Vinícius</h1>
 <h3 align="center">Fullstack Software Engineer | 4+ Years in Java Spring Boot, VueJS & Flutter | Scalable AI-powered Systems | Impacting 800+ registries & 1.4M+ services</h3>
 
