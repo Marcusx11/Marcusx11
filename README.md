@@ -1,4 +1,4 @@
-## Hi there 👋
+## Fullstack Software Engineer | 4+ Years in Java Spring Boot, VueJS & Flutter | Scalable AI-powered Systems | Impacting 800+ registries & 1.4M+ services
 
 <!--
 **Marcusx11/Marcusx11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
